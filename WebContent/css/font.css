@@ -16,9 +16,8 @@
   font-weight: 700;
   src: local('Source Sans Pro Bold'), local('SourceSansPro-Bold'), url('../fonts/sourcesanspro/sourcesanspro-bold.woff') format('woff');
 }
+
 @font-face {
-  font-family: 'CollegeMovie';
-  font-style: normal;
-  font-weight: 700;
-  src: url('../fonts/CollegeMovie.TTF') format('TTF');
+    font-family: 'CollegeMovie';
+    src:url(../fonts/CollegeMovie.ttf) format('truetype');
 }
